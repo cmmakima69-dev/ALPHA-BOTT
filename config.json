@@ -16,7 +16,8 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [100067515573021
+  "adminBot": [
+    "100067515573021",
     "",
     ""
   ],
